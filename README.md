@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm God's Man 👋</h1>
+<h1 align="center">Hi, I'm Winner👋</h1>
 <h3 align="center">Full-Stack Developer building products for real markets. Nigeria</h3>
 
 <p align="center">
@@ -31,33 +31,58 @@ My most significant build: one platform combining a vendor marketplace, ride-hai
 - **Onboarding** — multi-step flow for new vendors and artisans (React/Redux)
 `React` `Redux` `Node.js` `Express` `MongoDB` `Redis` `BullMQ` `Socket.io` `Paystack`
 
-**Ilogi** — Property rental platform
-`React` `Framer Motion` `Node.js` `Paystack` `Cloudinary`
-
-**GasRun** — On-demand LPG delivery startup
-`Product Strategy` `Prototyping` `Business Modeling`
-
-**Predicto / FlexiBet** — World Cup 2026 prediction & live match visualizer
-`Next.js` `TypeScript` `Solana Wallet Adapter` `MongoDB` `BullMQ`
-
-**Food Order App** — Cross-platform microservice
-`React Native` `Expo` `Node.js` `Socket.io` `Microservices`
-
-**VLUX** — E-commerce platform (freelance)
-`Next.js` `Redux` `Tailwind CSS`
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,express,mongodb,redis,tailwind,html,css,git,figma,androidstudio&theme=dark" />
-</p>
-
-**Frontend:** React · React Native (Expo) · TypeScript · Next.js · Redux · Tailwind CSS · Framer Motion
-**Backend:** Node.js · Express · MongoDB/Mongoose · Redis · BullMQ · Socket.io
-**Systems & Scale:** Microservices · Load balancing · Caching strategies · Background job queues · Real-time (WebSockets)
-**Integrations:** Paystack · Cloudinary · Google Maps/Places · Solana Wallet Adapter
+<table>
+  <tr>
+    <td align="center" width="150"><strong>🎨 Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><strong>⚙️ Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/BullMQ-EE0000?style=for-the-badge&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><strong>🏗️ System Design</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Microservices-4B32C3?style=for-the-badge&logo=googlecloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Load_Balancing-1F6FEB?style=for-the-badge&logo=nginx&logoColor=white" />
+      <img src="https://img.shields.io/badge/Caching-D63384?style=for-the-badge&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Job_Queues-8B5CF6?style=for-the-badge&logo=celery&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebSockets-016D9E?style=for-the-badge&logo=socketdotio&logoColor=white" />
+      <img src="https://img.shields.io/badge/RBAC-0F766E?style=for-the-badge&logo=auth0&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><strong>🔌 Integrations</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge&logo=paystack&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+      <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
